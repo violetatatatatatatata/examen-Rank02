@@ -1,0 +1,2 @@
+https://42-cursus.gitbook.io/guide/exams/exam-rank-02
+https://sourceware.org/gdb/current/onlinedocs/gdb.html/
